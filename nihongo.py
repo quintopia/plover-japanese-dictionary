@@ -217,8 +217,8 @@ specials = {
   "KW*GS":"『",
   "KR*GS":"』",
   "SR-":"　",
-  "KPR":"〜",
-  "TKPW":"・"
+  "KPR-":"〜",
+  "TKPW-":"・"
   }
 
 def lookup(outline):
