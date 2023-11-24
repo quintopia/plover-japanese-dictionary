@@ -27,7 +27,7 @@ A variety of punctuation can also be produced aside from the tōten, maru, and d
 * `NR*eu`: "『"
 * `NP*eu`: "』"
 
-Traditional plover commands for ! and carriage return work as well.
+Traditional plover commands for "!" and carriage return work as well.
 
-##Toggling it on and off.
-Use the `TPHEULG` stroke to set this as a solo dictionary and the same stroke to return to your regularly scheduled dictionaries.
+## Toggling it on and off.
+Use the `TPHEULG` stroke (standard steno key labels--think 'niggle') to set this as a solo dictionary and the same stroke to return to your regularly scheduled dictionaries.
