@@ -1,8 +1,8 @@
 # plover-japanese-dictionary
 A programmatic hiragana/katakana syllabic theory for Plover
 
-This is not a full stenographic theory for Japanese. It will not output any kanji. It is educational tool only for hiragana and katakana. The theory allows the output of words phonetically a syllable at a time. Stroke lookup is not supported at this time.
-##Installation
+This is not a full stenographic theory for Japanese. It will not output any kanji. It is an educational tool only for hiragana and katakana. The theory allows the output of words phonetically a syllable at a time. Stroke lookup is not supported at this time.
+## Installation
 1. Open the Plover 4+ Plug-in Manager and ensure the `plover-python-dictionary` and `plover-dict-commands` plug-ins are installed. Restart if necessary.
 2. Add nihongo.py as a dictionary, but uncheck it/leave it disabled.
 3. Add `"TPHEULG": "{PLOVER:SOLO_DICT:+nihongo.py} "` to your favorite/highest priority dictionary, e.g. `user.json`.
